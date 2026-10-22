@@ -1,132 +1,115 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:001d3d,40:003566,70:0077b6,100:00b4d8&height=230&section=header&text=Rachel%20Ang%20Dong%20Jin&fontSize=46&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=%F0%9F%90%8B%20diving%20deep%20into%20frontend%20%26%20full-stack%20%F0%9F%8C%8A&descSize=18&descAlignY=58" width="100%" alt="ocean wave header" />
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+<p><sub>RECRUITER SIGNAL BRIEF · unihemisphericorca</sub></p>
+<h1>Rachel Ang Dong Jin</h1>
+<h2>Frontend or full-stack engineer</h2>
+<p>Building useful software and sharing the work in public.</p>
+<p><strong>● Building and sharing work in public</strong></p>
 
-<a href="https://github.com/unihemisphericorca">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=48CAE4&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Rachel+%F0%9F%91%8B;Frontend+%2F+Full-stack+engineer;Building+useful+software+in+public;Riding+the+waves+of+PHP%2C+Swift+%26+CSS+%F0%9F%8C%8A" alt="Typing animation" />
-</a>
-
-<br/>
-
-![Role](https://img.shields.io/badge/Role-Frontend%20%2F%20Full--stack-0077b6?style=for-the-badge&logo=codepen&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Building%20in%20public-00b4d8?style=for-the-badge&logo=github&logoColor=white)
-![Vibe](https://img.shields.io/badge/Vibe-Orca%20Mode-001d3d?style=for-the-badge)
-
+<p><a href="https://github.com/unihemisphericorca">GitHub</a></p>
+</td>
+<td width="36%" valign="middle" align="center">
+<img src="https://avatars.githubusercontent.com/u/277440474?u=a5db6ca626eab4d505be16bd5801996b67ab73ef&amp;v=4" width="180" alt="Rachel Ang Dong Jin GitHub avatar" />
+</td>
+</tr>
+</table>
 </div>
 
----
-
-## 🐋 About the Orca
-
-```text
-                         __
-                    _.-'`  `'-._
-               _.-'`   ___      `'-._
-          _.-'`    .-'`   `'-.        `'-._
-      .-'`       .'    ___    '.    O      `'-.
-    .'          /    .'   '.    \         ___   '.
-   /       ~~~~|    |  (@) |    |~~~~   .-`   `-.  \
-  |   ~~~~~~~~~ \    '.___.'    / ~~~~~/  ___    \  |
-  |  ~~~~~~~~~~~~'.            .'~~~~~~|  /   \   | |
-   \ ~~~~~~~~~~~~~~`'-.____.-'`~~~~~~~~\  `---'  /  /
-    '.~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~`-.___.-' .'
-      `'-.~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~.-'`
-          `'-._~~~~~~~~~~~~~~~~~~~~~~~~._.-'`
-               `''--..______..--''`
-```
-
-<div align="center">
-
-<img src="assets/orca.jpg" width="480" alt="A cheerful orca poking its head out of the water" />
-
-<sub>🐋 hello from the surface!</sub>
-
-</div>
-
-> **Fun fact:** my handle, `unihemisphericorca`, is a nod to how orcas sleep: one half of the brain at a time, so they never stop swimming. 🌙
-> I like to work the same way: always moving, always surfacing something new.
-
-- 🌊 Frontend / full-stack engineer who loves clean UI and solid backends
-- 🐚 Currently exploring **PHP**, **Swift** and deeper **CSS** craft
-- 🔭 Sharing the work in public, one repo at a time
-- 🤝 Open to thoughtful teams, ambitious products and useful engineering work
-
----
-
-## 🌊 Selected Catches
+<h2>What teams can evaluate quickly</h2>
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
-
-### 🌐 [portfolio](https://github.com/unihemisphericorca/portfolio)
-My personal website: the surface where everything comes together.
-`HTML`
-
-</td>
-<td width="50%" valign="top">
-
-### 🎬 [cinewave](https://github.com/unihemisphericorca/cinewave)
-A wave of movie-themed web fun, built in PHP.
-`PHP`
-
-</td>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · PHP · Swift · CSS</p></td>
+<td width="33%" valign="top"><h3>Public proof</h3><p>8 repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Momentum</h3><p>61 contributions · 17 active days</p></td>
 </tr>
+</table>
+
+<p><sub>Building useful software and sharing the work in public.</sub></p>
+
+<h2>Proof at a glance</h2>
+
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="25%" align="center"><strong>8</strong><br /><sub>Repositories</sub></td>
+<td width="25%" align="center"><strong>0</strong><br /><sub>Stars</sub></td>
+<td width="25%" align="center"><strong>61</strong><br /><sub>Contributions</sub></td>
+<td width="25%" align="center"><strong>1</strong><br /><sub>Followers</sub></td>
+</tr>
+</table>
 
-### 🏦 [Bank-Management-System](https://github.com/unihemisphericorca/Bank-Management-System)
-Accounts, transactions and the logic beneath them.
-`Java`
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=unihemisphericorca&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F277440474%3Fu%3Da5db6ca626eab4d505be16bd5801996b67ab73ef%26v%3D4&v=recruiter-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=unihemisphericorca&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F277440474%3Fu%3Da5db6ca626eab4d505be16bd5801996b67ab73ef%26v%3D4&v=recruiter-stats-1&mode=dark" width="100%" alt="Rachel Ang Dong Jin GitHub proof metrics" />
+</picture>
+</p>
 
+<h2>Selected work</h2>
+
+<table width="100%">
+<tr>
+<td width="58%" valign="top">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=unihemisphericorca&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F277440474%3Fu%3Da5db6ca626eab4d505be16bd5801996b67ab73ef%26v%3D4&repos=unihemisphericorca%2Fportfolio%2Cunihemisphericorca%2Fcinewave%2Cunihemisphericorca%2FBank-Management-System%2Cunihemisphericorca%2FClinic-Management-System&v=recruiter-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=unihemisphericorca&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F277440474%3Fu%3Da5db6ca626eab4d505be16bd5801996b67ab73ef%26v%3D4&repos=unihemisphericorca%2Fportfolio%2Cunihemisphericorca%2Fcinewave%2Cunihemisphericorca%2FBank-Management-System%2Cunihemisphericorca%2FClinic-Management-System&v=recruiter-projects-1&mode=dark" width="100%" alt="Rachel Ang Dong Jin selected projects" />
+</picture>
 </td>
-<td width="50%" valign="top">
-
-### 🏥 [Clinic-Management-System](https://github.com/unihemisphericorca/Clinic-Management-System)
-Managing patients and appointments, close to the metal.
-`C`
-
+<td width="42%" valign="top">
+<h3><a href="https://github.com/unihemisphericorca/portfolio">portfolio</a></h3>
+<p>my website</p>
+<p><sub>HTML · ⭐ 0 · 🍴 0</sub></p>
+<p><a href="https://github.com/unihemisphericorca/portfolio">Read the repository →</a></p>
 </td>
 </tr>
 </table>
 
----
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3><a href="https://github.com/unihemisphericorca/cinewave">cinewave</a></h3><p>A selected public project.</p><p><sub>PHP · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/unihemisphericorca/Bank-Management-System">Bank-Management-System</a></h3><p>A selected public project.</p><p><sub>Java · ⭐ 0</sub></p></td>
+<td width="33%" valign="top"><h3><a href="https://github.com/unihemisphericorca/Clinic-Management-System">Clinic-Management-System</a></h3><p>A selected public project.</p><p><sub>C · ⭐ 0</sub></p></td>
+</tr>
+</table>
 
-## 🛠️ Tools in My Pod
+<h2>Technical toolkit</h2>
 
-![PHP](https://img.shields.io/badge/PHP-0077b6?style=for-the-badge&logo=php&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-00b4d8?style=for-the-badge&logo=swift&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-48cae4?style=for-the-badge&logo=css3&logoColor=003566)
-![HTML](https://img.shields.io/badge/HTML-90e0ef?style=for-the-badge&logo=html5&logoColor=003566)
-![Java](https://img.shields.io/badge/Java-003566?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-001d3d?style=for-the-badge&logo=c&logoColor=white)
-![Git](https://img.shields.io/badge/Git-0096c7?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=unihemisphericorca&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F277440474%3Fu%3Da5db6ca626eab4d505be16bd5801996b67ab73ef%26v%3D4&v=recruiter-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=unihemisphericorca&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F277440474%3Fu%3Da5db6ca626eab4d505be16bd5801996b67ab73ef%26v%3D4&v=recruiter-stack-1&mode=dark" width="100%" alt="Rachel Ang Dong Jin technology stack" />
+</picture>
+</p>
 
----
+<table width="100%">
+<tr>
+<td width="20%" align="center"><strong>PHP</strong><br /><sub>35% of public code</sub></td>
+<td width="20%" align="center"><strong>Swift</strong><br /><sub>22% of public code</sub></td>
+<td width="20%" align="center"><strong>CSS</strong><br /><sub>17% of public code</sub></td>
+<td width="20%" align="center"><strong>HTML</strong><br /><sub>12% of public code</sub></td>
+<td width="20%" align="center"><strong>Java</strong><br /><sub>10% of public code</sub></td>
+</tr>
+</table>
 
-## 📈 Tide Report
+<h2>Consistency signal</h2>
 
-<div align="center">
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=unihemisphericorca&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F277440474%3Fu%3Da5db6ca626eab4d505be16bd5801996b67ab73ef%26v%3D4&v=recruiter-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=unihemisphericorca&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F277440474%3Fu%3Da5db6ca626eab4d505be16bd5801996b67ab73ef%26v%3D4&v=recruiter-heatmap-1&mode=dark" width="100%" alt="Rachel Ang Dong Jin contribution activity" />
+</picture>
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=unihemisphericorca&show_icons=true&hide_border=true&bg_color=001d3d&title_color=48cae4&icon_color=00b4d8&text_color=caf0f8" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unihemisphericorca&layout=compact&hide_border=true&bg_color=001d3d&title_color=48cae4&text_color=caf0f8" alt="Top languages" />
+<hr />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=unihemisphericorca&background=001D3D&ring=00B4D8&fire=48CAE4&currStreakLabel=CAF0F8&sideLabels=90E0EF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=90E0EF&stroke=0077B6&border=0077B6" alt="Streak stats" />
+<table width="100%">
+<tr>
+<td width="62%" valign="middle"><h2>Let’s talk about the next build</h2><p>Open to thoughtful teams, ambitious products, and useful engineering work.</p></td>
+<td width="38%" valign="middle" align="right"><a href="https://github.com/unihemisphericorca">GitHub</a></td>
+</tr>
+</table>
 
-</div>
-
----
-
-## 🐚 Let's Make Waves Together
-
-<div align="center">
-
-<a href="https://github.com/unihemisphericorca">
-  <img src="https://img.shields.io/badge/Follow%20me%20on-GitHub-0077b6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-
-*"The ocean stirs the heart, inspires the imagination and brings eternal joy to the soul."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,40:0077b6,70:003566,100:001d3d&height=160&section=footer&reversal=true" width="100%" alt="ocean wave footer" />
-
-</div>
+<p align="center"><sub>Rachel Ang Dong Jin · recruiter-ready profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>

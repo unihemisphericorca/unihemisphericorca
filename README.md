@@ -5,9 +5,9 @@
 <td width="64%" valign="middle">
 <p><sub>RECRUITER SIGNAL BRIEF · unihemisphericorca</sub></p>
 <h1>Rachel Ang Dong Jin</h1>
-<h2>Frontend or full-stack engineer</h2>
-<p>Building useful software and sharing the work in public.</p>
-<p><strong>● Building and sharing work in public</strong></p>
+<h2>IT Student</h2>
+<p>Full loads of curiosity and passion for technology</p>
+<p><strong>● I LOVE TECH & THE SEA🌊🫍</strong></p>
 
 <p><a href="https://github.com/unihemisphericorca">GitHub</a></p>
 </td>
@@ -22,7 +22,7 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>IT Student · PHP · Swift · CSS</p></td>
+<td width="33%" valign="top"><h3>Role fit</h3><p>Java · PHP · Swift · CSS</p></td>
 <td width="33%" valign="top"><h3>Public proof</h3><p>8 repositories · 0 stars</p></td>
 <td width="33%" valign="top"><h3>Momentum</h3><p>61 contributions · 17 active days</p></td>
 </tr>

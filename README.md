@@ -22,7 +22,7 @@
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Role fit</h3><p>Frontend or full-stack engineer · PHP · Swift · CSS</p></td>
+<td width="33%" valign="top"><h3>Role fit</h3><p>IT Student · PHP · Swift · CSS</p></td>
 <td width="33%" valign="top"><h3>Public proof</h3><p>8 repositories · 0 stars</p></td>
 <td width="33%" valign="top"><h3>Momentum</h3><p>61 contributions · 17 active days</p></td>
 </tr>
